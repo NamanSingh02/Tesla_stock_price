@@ -1,0 +1,26 @@
+Model coded by Naman Singh
+
+
+
+Technique used: Multivariate Linear Regression + Normalization + Regularization
+
+The results are as follows:
+
+
+w=[
+20.629966821739725,
+41.39352385496913,
+46.452109506114255,
+0.10558732833882023,
+]
+
+b=89.25345320274592
+
+The mean used for Normalization is:
+[8.92674275e+01 9.12378201e+01 8.72010663e+01 9.77024838e+07]
+
+The standard deviation used for Normalization is:
+[1.08575076e+02 1.11008601e+02 1.05979017e+02 7.61298208e+07]
+
+Root Mean Square Error on test set is 2.86
+Mean Absolute Error on test set is 1.19
